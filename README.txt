@@ -1,4 +1,4 @@
-These are the assignment files
+These are the assignment files but we may or may not have js files
 html
 css are new...
 
